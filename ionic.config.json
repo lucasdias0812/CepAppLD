@@ -1,0 +1,7 @@
+{
+  "name": "CepApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
